@@ -5,6 +5,7 @@ Turing Sapiens Hackathon
 
 # Elder's Friend - An Elderly Care System
 <img width="723" alt="Screenshot 2023-11-07 at 5 34 27 AM" src="https://github.com/vanshksingh/SeniorGuard-Innovations/assets/114809624/d6682341-0fa2-46d9-a40e-cf5d63e46b64">
+<img width="723" alt="Screenshot 2023-11-07 at 5 34 21 AM" src="https://github.com/vanshksingh/SeniorGuard-Innovations/assets/114809624/9e050b11-dd23-4fe9-bedf-ddec9b1e9e62">
 
 
 ## Overview
