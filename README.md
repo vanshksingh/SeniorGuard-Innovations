@@ -99,6 +99,6 @@ Contributions to this project are welcome. If you have ideas for improvements or
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your projects.
 
----
+----
 
 **Elder's Friend** is a caring and responsive system designed to enhance the well-being of senior citizens. If you have any questions or encounter issues, please don't hesitate to open an issue or reach out to the project's author. Your contributions and thoughtful customizations can make a real difference in the lives of the elderly.
